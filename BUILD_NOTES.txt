@@ -1,0 +1,5 @@
+
+2015-Sept-12: 
+               Unable to Build the Docs: 
+                     YOU MUST HAVE sphinx installed in your virtual environment
+
